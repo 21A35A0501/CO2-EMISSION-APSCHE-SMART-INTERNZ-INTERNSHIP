@@ -1,25 +1,24 @@
-# CO2-EMISSION-APSCHE-SMART-INTERNZ-INTERNSHIP
 INTRODUCTION
 
 Welcome to the CO2 Emission Analysis Visualization Project! This repository is created for the APSCHE SmartInternz internship program. My aim is to create various visualizations for analyzing CO2 emissions data.
 
 Following are my details:
 
-MY NAME: Surya Revathi Ainavilli
+MY NAME: Nallamilli Aisshwarya
 
-MY MAIL ID: revathiainavilli2003@gmail.com
+MY MAIL ID: nallamilliaisshwarya@gmail.com
 
 ACADEMIC DETAILS: B.Tech(CSE),4th Year (8th Sem)
 
 COLLEGE NAME: Pragati Engineering College
 
-ROLL NUMBER: 21A35A0501
+ROLL NUMBER: 20A31A0516
 
 IN THIS FILE , WE CAN SEE ALL LINKS FOR THE ENTIRE PROJECT
 
 WEBSITE LINK :
 
-https://21a35a0501.github.io/CO2-EMISSION-APSCHE-SMART-INTERNZ-INTERNSHIP/
+https://20a31a0516.github.io/CO2-EMISSION-APSCHE-SMART-INTERNZ-INTERNSHIP/
 
 SHEET 1 :
 
