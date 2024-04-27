@@ -18,7 +18,7 @@ IN THIS FILE , WE CAN SEE ALL LINKS FOR THE ENTIRE PROJECT
 
 WEBSITE LINK :
 
-https://20a31a0516.github.io/CO2-EMISSION-APSCHE-SMART-INTERNZ-INTERNSHIP/
+https://glittery-monstera-fd1db6.netlify.app/
 
 SHEET 1 :
 
